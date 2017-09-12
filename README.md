@@ -41,5 +41,5 @@ GTX 1080 8 GB skjákort | 78500 | Kísildalur
 250 GB Samsung 850 EVO ssd | 15900 | Tölvutækni
 2 TB Seagate Desktop harður diskur | 10900 | Tölvutækni
 Gigabyte X299 Aorus Gaming 3 móðurborð | 54990 | ódýrið
-Aerocool KCAS 600W aflgjafi | 8500 |
+Aerocool KCAS 600W aflgjafi | 8500 | Kísildalur
 Cooler Master Silencio 352 kassi | 13950 | att.is
