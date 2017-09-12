@@ -33,7 +33,7 @@ verjast því þegar unnið er með tölvubúnað?
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst
 
-Íhlutur | Verð | Verslun
+Íhlutur --- Verð --- Verslun
 DDR4 16 GB (2x8 GB) 2400 MHz vinnsluminni | 17900 | Tölvutækni
 Intel i7 7740X 4.3 ~ 4.5 GHz örgjörvi | 37900 | Tölvutækni
 GTX 1080 8 GB skjákort | 78500 | Kísildalur
